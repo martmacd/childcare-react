@@ -1,3 +1,9 @@
+From the developer:
+
+This is a React version of the previously uploaded HTML Childcare Calculator (also available on git-hub under martmacd).
+
+--------------------------
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
