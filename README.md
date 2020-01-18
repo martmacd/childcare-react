@@ -1,6 +1,6 @@
 From the developer:
 
-This is a React version of the previously uploaded HTML Childcare Calculator (also available on git-hub under martmacd).
+This is a React version of the previously uploaded HTML Childcare Calculator (also available at github.com/martmacd).
 
 --------------------------
 
